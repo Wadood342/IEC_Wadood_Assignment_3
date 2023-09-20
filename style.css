@@ -3,6 +3,7 @@
     font-family: 'Quicksand', sans-serif !important;
     box-sizing: border-box;
     scroll-behavior: smooth;
+  
 
 }
 :root {
@@ -121,6 +122,7 @@
 }
 .detail {
     color: #fff;
+    
 }
 .submit-btn {
     width: 6rem !important;
